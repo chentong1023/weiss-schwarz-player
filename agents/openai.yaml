@@ -1,0 +1,4 @@
+interface:
+  display_name: "weiss-schwarz-player"
+  short_description: "通过 MCP 读局面、数高潮卡、核对能力并按合法选项参与黑白双翼对战"
+  default_prompt: "用 $weiss-schwarz-player 加入我给出的席位，按当前局面出牌，直到对局结束。"
